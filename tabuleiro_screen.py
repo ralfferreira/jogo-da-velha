@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import buttons as bt
 import pygame
 

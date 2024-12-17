@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 from tabuleiro import Tabuleiro
 
 class Jogador:

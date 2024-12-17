@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from tabuleiro_screen import TabuleiroScreen
 from tabuleiro import Tabuleiro
 from jogador import Jogador
